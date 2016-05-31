@@ -1,5 +1,5 @@
 main:
-	echo "Hello world"
+	echo "Hello world!"
 	
 	
 push-remote:
